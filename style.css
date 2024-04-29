@@ -1,17 +1,8 @@
-body, html {
-    height: 100%;
+html {
     font-family:Arial, Helvetica, sans-serif;
 }
 
-* {
-    box-sizing: border-box;
-}
-
-
-
 img {
-    width: 50%;
-    background-position: right;
-    background-repeat: no-repeat;
-    background-size: cover;
+    max-width: 45%;
+    height: auto;
 }
