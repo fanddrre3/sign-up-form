@@ -3,13 +3,20 @@ html {
 }
 
 div {
-    text-align: center;
     display: flex;
-    align-items: center;
+    text-align: center;
 }
 
 img {
-    max-width: 45%;
+    justify-content: start;
+    max-width: 75%;
     height: auto;
-    float: left;
+}
+
+.right-section {
+    display: flex;
+}
+
+.left-section {
+    display: inline-flex;
 }
