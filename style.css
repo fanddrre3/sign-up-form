@@ -18,5 +18,10 @@ img {
 }
 
 .left-section {
-    display: inline-flex;
+    display: block;
+}
+
+button {
+    background-color:#596D48 ;
+    color:white
 }
