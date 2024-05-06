@@ -39,19 +39,16 @@ button {
 
 .header {
     background-color: #d0d4db;
-    padding: 50px;
+    padding: 55px;
     text-align: center;
 }
 
 .form1 {
-    padding: 50px;
+    padding: 55px;
 }
 
 .footer {
+    display: block;
     background-color: #d0d4db;
-    padding: 50px;
-}
-.submitBtn {
-    padding: 50px;
-    align-items: center;
+    padding: 55px;
 }
