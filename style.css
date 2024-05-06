@@ -38,7 +38,7 @@ button {
 }
 
 .header {
-    background-color: #d0d4db;
+    background-color: #babdc24d;
     padding: 55px;
     text-align: center;
 }
@@ -49,6 +49,6 @@ button {
 
 .footer {
     display: block;
-    background-color: #d0d4db;
+    background-color: #babdc24d;
     padding: 55px;
 }
