@@ -40,15 +40,26 @@ button {
 .header {
     background-color: #babdc24d;
     padding: 55px;
-    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 
 .form1 {
     padding: 55px;
+    justify-content: center;
+    align-items: center;
 }
 
 .footer {
     display: block;
     background-color: #babdc24d;
     padding: 55px;
+    justify-content: center;
+    align-items: center;
+}
+
+.submitBtn {
+    margin: 26px;
+    height: 28px;
+    width: 129px;
 }
